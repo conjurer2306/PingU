@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390766455611",
+    "firebase_url": "https://pingu-86df8.firebaseio.com",
+    "project_id": "pingu-86df8",
+    "storage_bucket": "pingu-86df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390766455611:android:0b80f464ab11355dada51e",
+        "android_client_info": {
+          "package_name": "com.example.pingu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390766455611-gr6pj46kuhdlq5glbih57s1lpj22jhm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pingu",
+            "certificate_hash": "420380444fb56a4639d1e1f068de9e7b2b50d8b7"
+          }
+        },
+        {
+          "client_id": "390766455611-2phei3i7sdjrsvv1sd8nuvroe230ngm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTe3ysOU_h52eY6rDA71gni4a2M0eO-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390766455611-2phei3i7sdjrsvv1sd8nuvroe230ngm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
